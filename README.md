@@ -1,1 +1,1 @@
-# Mock React Chat App
+# Mock Chat App
